@@ -26,7 +26,7 @@ I am currently working as a **Full Stack Developer Intern** at [Hyphenova](https
 
 ## 📈 Projects
 
-I have worked on a few projects in the past, some of which are listed below.
+I've worked on multiple projects in the past, some of which are listed below.
 
 - [Sao Paulo Metro Line Analysis](https://github.com/sidharth-05/UrbanTransit_Analysis)
 
@@ -34,6 +34,6 @@ I have worked on a few projects in the past, some of which are listed below.
 
 - [Flask_Authentication App](https://github.com/sidharth-05/FlaskApp-BootStrap-Auth)
 
--[Noise_Pollution EDA & Dashboard](https://github.com/sidharth-05/NoisePollution_App)
+- [Noise_Pollution EDA & Dashboard](https://github.com/sidharth-05/NoisePollution_App)
 
 **For Full Details on any of the Experiences, Please click CV on the navigation bar.**
