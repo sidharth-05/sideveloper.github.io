@@ -96,11 +96,8 @@
   }
 
   img {
-    width: 150px; /* Adjust as needed for circular/oval shape */
-    height: 150px; /* Adjust height to the same as width for circle, different for oval */
-    border-radius: 50%; /* This makes the image circular or oval */
-    object-fit: cover; /* Ensures the image covers the dimensions without stretching */
-    max-width: 175px; /* Ensure the image does not exceed this width */
+    max-width: 175px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
